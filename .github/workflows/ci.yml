@@ -67,4 +67,4 @@ jobs:
         run: |
           echo "Running Docker container for validation..."
           mkdir results
-          docker run --rm -v ${PWD}}/results:/mywork/results retrieval-tester
+          docker run --rm retrieval-tester
