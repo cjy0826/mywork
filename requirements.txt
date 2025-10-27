@@ -1,5 +1,5 @@
 numpy
-opencv-python
-torch
-torchvision
-pytest
+opencv-python===4.12.0.88
+torch===2.8.0
+torchvision===0.23.0
+pytest===8.4.2
