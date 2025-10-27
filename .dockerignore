@@ -1,0 +1,30 @@
+# 忽略本地虚拟环境
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略Git相关文件
+.git
+.gitignore
+
+# 忽略结果和日志
+results/
+logs/
+*.log
+
+# 忽略大数据文件（例如下载的数据集）
+data/raw/
+data/temp/
+*.npy
+*.pt
+*.pkl
+*.zip
+*.tar.gz
+
+# 忽略操作系统缓存文件
+.DS_Store
+Thumbs.db
+
+# 忽略测试输出
+*.txt
