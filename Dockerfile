@@ -5,7 +5,7 @@ WORKDIR /mywork
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY ./app ./data ./
+COPY ./app ./
 
 RUN mkdir -p results
 
