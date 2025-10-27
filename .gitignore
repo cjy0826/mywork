@@ -6,8 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Distribution / packaging
 .Python
+venv/
+.venv/
+.env
 build/
 develop-eggs/
 dist/
