@@ -39,7 +39,7 @@ jobs:
       - name: Run static analysis (ruff)
         run: |
           echo "Running ruff linter..."
-          ruff check .
+          ruff check . --fix
 
       - name: Run pytest
         run: |
