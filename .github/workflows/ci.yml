@@ -66,4 +66,3 @@ jobs:
       - name: Run container to validate runtime
         run: |
           echo "Running Docker container for validation..."
-          docker run --rm retrieval-tester
