@@ -8,7 +8,6 @@ dataset = CIFAR10(root='../data', train=True, download=True, transform=transform
 images = dataset.data
 labels = np.array(dataset.targets)
 
-# 只用一部分数据加快测试
 subset_ratio = 0.1
 n_subset = int(subset_ratio * len(images))
 indices = np.arange(len(images))

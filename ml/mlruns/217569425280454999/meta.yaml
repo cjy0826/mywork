@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/cjy/Desktop/docker_project/%E5%A4%A7%E4%BD%9C%E4%B8%9A/mywork/ml/mlruns/217569425280454999
+creation_time: 1761550734817
+experiment_id: '217569425280454999'
+last_update_time: 1761550734817
+lifecycle_stage: active
+name: CIFAR10_HSV_Retrieval

@@ -1,0 +1,7 @@
+[core]
+    remote = myoss
+['remote "myoss"']
+    url = oss://bucket-cjy/dvc
+    oss_endpoint = oss-cn-wuhan-lr.aliyuncs.com
+    oss_key_id = ${ALIBABA_ACCESS_KEY_ID}
+    oss_key_secret = ${ALIBABA_ACCESS_KEY_SECRET}

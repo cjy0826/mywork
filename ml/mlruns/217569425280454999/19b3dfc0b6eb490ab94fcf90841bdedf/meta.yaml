@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/cjy/Desktop/docker_project/%E5%A4%A7%E4%BD%9C%E4%B8%9A/mywork/ml/mlruns/217569425280454999/19b3dfc0b6eb490ab94fcf90841bdedf/artifacts
+end_time: 1761551369440
+entry_point_name: ''
+experiment_id: '217569425280454999'
+lifecycle_stage: active
+run_id: 19b3dfc0b6eb490ab94fcf90841bdedf
+run_name: likeable-dolphin-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761551350778
+status: 3
+tags: []
+user_id: cjy

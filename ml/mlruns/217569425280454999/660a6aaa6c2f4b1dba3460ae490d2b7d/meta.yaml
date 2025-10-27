@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/cjy/Desktop/docker_project/%E5%A4%A7%E4%BD%9C%E4%B8%9A/mywork/ml/mlruns/217569425280454999/660a6aaa6c2f4b1dba3460ae490d2b7d/artifacts
+end_time: 1761550739734
+entry_point_name: ''
+experiment_id: '217569425280454999'
+lifecycle_stage: active
+run_id: 660a6aaa6c2f4b1dba3460ae490d2b7d
+run_name: persistent-skunk-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761550734909
+status: 3
+tags: []
+user_id: cjy
