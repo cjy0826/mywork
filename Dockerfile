@@ -2,10 +2,10 @@ FROM python:3.13.9-slim
 
 WORKDIR /mywork
 
-COPY requirements.txt ./
-RUN pip install -r requirements.txt
+COPY ./requirements.txt ./
+RUN pip install -r ./requirements.txt
 
-COPY app ./
+COPY ./app ./app
 
 RUN mkdir -p results
 
